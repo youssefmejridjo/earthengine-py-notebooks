@@ -1,3 +1,4 @@
 voila
 # geemap
 git+git://github.com/giswqs/geemap.git
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
